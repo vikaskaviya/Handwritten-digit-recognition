@@ -8,19 +8,20 @@ Each image is a 28 by 28 pixel square (784 pixels total). Each pixel has a singl
 
 **Train dataset contain 42000 Images,Test dataset contain 28000 Images**
 
-##Process 
+ ## Process
 - Applied Principle Component Analysis and reducted the Dimensionality to 90 from 784
 - Train the model on diffenent Machine Learning Algorithms using SciKit Learn's modules
 - Compared the accuracy of SVM,KNN,Random Forest and Neural Networks
 
 
 ## Test Accuracy   
--Random Forest 0.93
+- Random Forest 0.93
 
--Support Vector Machine 0.91
+- Support Vector Machine 0.91
 
--Nearest Neighbors 0.96
+- Nearest Neighbors 0.96
 
--Neural Network 0.97
+- Neural Network 0.97
 
+## Final Results
 Enhanced the real-time accuracy of Handwritten digits recognition using various ML modules embedded with Image Processing Techniques; obtained 97.7% accuracy on MNIST Dataset using 3 layered Neural Networks.
