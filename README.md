@@ -8,7 +8,7 @@ Each image is a 28 by 28 pixel square (784 pixels total). Each pixel has a singl
 
 **Train dataset contain 42000 Images,Test dataset contain 28000 Images**
 
- ## Process
+ ## Steps
 - Applied Principle Component Analysis and reducted the Dimensionality to 90 from 784
 - Train the model on diffenent Machine Learning Algorithms using SciKit Learn's modules
 - Compared the accuracy of SVM,KNN,Random Forest and Neural Networks
