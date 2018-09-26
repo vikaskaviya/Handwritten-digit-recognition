@@ -11,8 +11,11 @@ Each image is a 28 by 28 pixel square (784 pixels total). Each pixel has a singl
 
 ## Test Accuracy   
 -Random Forest 
+
 -Support Vector Machine
+
 -Nearest Neighbors
+
 -Neural Network
 
 Enhanced the real-time accuracy of Handwritten digits recognition using various ML modules embedded with Image Processing Techniques; obtained 97.7% accuracy on MNIST Dataset using 3 layered Neural Networks.
